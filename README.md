@@ -4,7 +4,7 @@ This is the COVID-19 Vaccine Tracker repository.
 
 #Clone the repository
 
-git clone 
+git clone https://github.com/SandiMakhathini/Covid-Vaccine-Tracker.git
 
 #Usage
 
